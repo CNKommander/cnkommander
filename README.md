@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am the Lead developer for the Elite's Conflict Mod, a modification for Star Wars: Empire at War: Forces of Corruption PC game
 
 <!--
 **CNKommander/cnkommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
